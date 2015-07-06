@@ -15,3 +15,5 @@ def wordcount(input_filename):
         print "%s: %d" %(word, count)
 
 wordcount("test.txt")
+print("* ")*80
+wordcount("twain.txt")
